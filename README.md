@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Project and various ideas
-- 📫 @ayee.harshal is my instagram profilr.
+- 📫 @ayee.harshal is my instagram profile.
 
 <!---
 Raga0074/Raga0074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
